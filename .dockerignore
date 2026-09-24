@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.github
+tests
+test-results
+playwright.config.ts
+*.md
+.DS_Store
+tsconfig.tsbuildinfo
